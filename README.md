@@ -1,2 +1,2 @@
 #  web scraaing using beautiful soup
-# EDA
+# EDA using Numpy,Pandas,Matplotlib,seaborn,regex
